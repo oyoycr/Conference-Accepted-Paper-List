@@ -1,5 +1,18 @@
 # Conference-Accepted-Paper-List
 
+❗ 网络安全顶会：CCS、NDSS、S&P （通常每年有2轮投稿，仅统计了最后一轮的截止日期）
+❗ AI领域：WWW、KDD、AAAI
+
+# Quick Links
+| Conference | Submission | Notification | 2025 | 2024 | 2023 | 2022 | 2021 |
+| ---------- | ---------- | ------------ | ---- | ---- | ---- | ---- | ---- |
+| [CCS](#CCS) | ~April | ~July |   | [🔗](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html) | [🔗](https://www.sigsac.org/ccs/CCS2023/tocs/tocs-ccs23.html) | [🔗](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html) | [🔗](https://www.sigsac.org/ccs/CCS2021/accepted-papers.html) |  
+| [NDSS](#NDSS) | ~July | ~September | [🔗](https://www.ndss-symposium.org/ndss2025/accepted-papers/)  | [🔗](https://www.ndss-symposium.org/ndss2024/accepted-papers/) | [🔗](https://www.ndss-symposium.org/ndss2023/accepted-papers/) | [🔗](https://www.ndss-symposium.org/ndss2022/accepted-papers/) | [🔗](https://www.ndss-symposium.org/ndss2021/accepted-papers/) |
+| [S&P](#S&P) | ~November | ~March | [🔗](https://www.ieee-security.org/TC/SP2025/accepted-papers.html)  | [🔗](https://www.ieee-security.org/TC/SP2024/accepted-papers.html) | [🔗](https://www.ieee-security.org/TC/SP2023/program-papers.html) | [🔗](https://www.ieee-security.org/TC/SP2022/program-papers.html) | [🔗](https://www.ieee-security.org/TC/SP2021/program-papers.html) |
+| [WWW](#WWW) | ~October | ~January |   | [🔗](https://www.sigweb.org/toc/www24.html) |  [🔗](https://www.sigweb.org/toc/www23.html) | [🔗](https://www.sigweb.org/toc/www22.html) | [🔗](https://dblp.org/db/conf/www/www2021.html) |
+| [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd2024.kdd.org/research-track-papers/) | [🔗](https://www.kdd.org/kdd2023/research-track-papers/) | [🔗](https://www.kdd.org/kdd2022/toc.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers/)|  
+| [AAAI](#AAAI) | ~Aug | ~December | [🔗](https://aaai.org/conference/aaai/aaai-25/main-technical-track/) | [🔗](https://dblp.org/db/conf/aaai/aaai2024) | [🔗 ](https://dblp.org/db/conf/aaai/aaai2023.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) |
+
 
 ## CCS
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
