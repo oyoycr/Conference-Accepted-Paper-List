@@ -16,12 +16,12 @@
 [Official Collection](https://www.ndss-symposium.org/previous-ndss-symposia/)
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2025| [🏠 website](https://www.ndss-symposium.org/ndss2025/)| [🔗 link](https://www.ndss-symposium.org/ndss2025/accepted-papers/)| 2024-07-10| 2024-09-19| 2025-02-23| San Diego, California, USA|
-| 2024| [🏠 website](https://www.ndss-symposium.org/ndss2024/)| [🔗 link](https://www.ndss-symposium.org/ndss2024/accepted-papers/)| 2023-06-28| 2023-09-13| 2024-02-26| San Diego, California, USA|
-| 2023| [🏠 website](https://www.ndss-symposium.org/ndss2023/)| [🔗 link](https://www.ndss-symposium.org/ndss2023/accepted-papers/)| 2022-07-29| 2022-10-21| 2023-02-27| San Diego, California, USA|
-| 2022| [🏠 website](https://www.ndss-symposium.org/ndss2022/)| [🔗 link](https://www.ndss-symposium.org/ndss2022/accepted-papers/)| 2021-07-23| 2021-10-29| 2022-04-24| San Diego, California, USA|
-| 2021| [🏠 website](https://www.ndss-symposium.org/ndss2021/)| [🔗 link](https://www.ndss-symposium.org/ndss2021/accepted-papers/)| 2020-07-31| 2020-10-23| 2021-02-21| San Diego, California, USA|
-| 2020| [🏠 website](https://www.ndss-symposium.org/ndss2020/)| [🔗 link](https://www.ndss-symposium.org/ndss2020/accepted-papers/)| 2019-09-13| 2019-12-08| 2020-02-23| San Diego, California, USA|
+| 2025| [🏠 website](https://www.ndss-symposium.org/ndss2025/)| [🔗 link](https://www.ndss-symposium.org/ndss2025/accepted-papers/)| 2024-07-10| 2024-09-19| 2025-02-23| San Diego, California|
+| 2024| [🏠 website](https://www.ndss-symposium.org/ndss2024/)| [🔗 link](https://www.ndss-symposium.org/ndss2024/accepted-papers/)| 2023-06-28| 2023-09-13| 2024-02-26| San Diego, California|
+| 2023| [🏠 website](https://www.ndss-symposium.org/ndss2023/)| [🔗 link](https://www.ndss-symposium.org/ndss2023/accepted-papers/)| 2022-07-29| 2022-10-21| 2023-02-27| San Diego, California|
+| 2022| [🏠 website](https://www.ndss-symposium.org/ndss2022/)| [🔗 link](https://www.ndss-symposium.org/ndss2022/accepted-papers/)| 2021-07-23| 2021-10-29| 2022-04-24| San Diego, California|
+| 2021| [🏠 website](https://www.ndss-symposium.org/ndss2021/)| [🔗 link](https://www.ndss-symposium.org/ndss2021/accepted-papers/)| 2020-07-31| 2020-10-23| 2021-02-21| San Diego, California|
+| 2020| [🏠 website](https://www.ndss-symposium.org/ndss2020/)| [🔗 link](https://www.ndss-symposium.org/ndss2020/accepted-papers/)| 2019-09-13| 2019-12-08| 2020-02-23| San Diego, California|
 
 
 ## KDD
