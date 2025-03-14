@@ -55,3 +55,8 @@
 | 2022| [🏠 website](https://www.kdd.org/kdd2022/)| [🔗 link](https://www.kdd.org/kdd2022/toc.html)| 2022-02-10| 2022-05-18| 2022-08-14| Washington DC|
 | 2021| [🏠 website](https://www.kdd.org/kdd2021/)| [🔗 link](https://www.kdd.org/kdd2021/accepted-papers/)| 2021-02-08| 2021-05-17| 2021-08-14| Online|
 | 2020| [🏠 website](https://www.kdd.org/kdd2020/)| [🔗 link](https://www.kdd.org/kdd2020/accepted-papers.html)| 2020-02-13| 2020-05-15| 2020-08-23| Online|
+
+
+
+### Acknowledge
+This project is built upon the excellent work of [AI-ML-Robotic Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List).
