@@ -35,15 +35,23 @@
 | 2020| [🏠 website](https://www.ieee-security.org/TC/SP2020/)| [🔗 link](https://www.ieee-security.org/TC/SP2020/program-papers.html)| each month| | 2020-05-18| Online|
 
 
+## WWW
+| Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
+| ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| 2025| [🏠 website](https://www2025.thewebconf.org/)| | 2024-10-14| 2025-01-20| 2025-04-28| Sydney, Australia|
+| 2024| [🏠 website](https://www2024.thewebconf.org/)| [🔗 link](https://www.sigweb.org/toc/www24.html)| 2023-10-12| 2024-02-01| 2024-05-13| Singapore|
+| 2023| [🏠 website](https://archives.iw3c2.org/www2023/)| [🔗 link](https://www.sigweb.org/toc/www23.html)| 2022-10-13| 2023-01-25| 2023-04-30| Austin, Texas|
+| 2022| [🏠 website](https://archives.iw3c2.org/www2022/)| [🔗 link](https://www.sigweb.org/toc/www22.html)| 2021-10-21| 2022-01-13| 2022-04-25| Online|
+| 2021| [🏠 website](https://archives.iw3c2.org/www2021/)| [🔗 link](https://dblp.org/db/conf/www/www2021.html)| 2020-10-12| 2021-01-15| 2021-04-12| Online|
+| 2020| [🏠 website](https://archives.iw3c2.org/www2020/)| [🔗 link](https://dl.acm.org/doi/proceedings/10.1145/3366423)| 2019-10-14	| 2020-01-20| 2020-04-20| Online|
+
+
 ## KDD
-| Year | Official Website |  Paper List | Deadline | Notification |
-| ---------- | ---------- | ----------- | ---------- | ---------- |
-| 2025| [🏠 website](https://kdd2025.kdd.org/)|  | 2025-02-10| 2025-05-16|
-| 2024| [🏠 website](https://kdd2024.kdd.org/)| [🔗 link](https://kdd2024.kdd.org/research-track-papers/)| 2024-02-08| 2024-05-16|
-| 2023| [🏠 website](https://kdd.org/kdd2023/)| [🔗 link](https://kdd.org/kdd2023/research-track-papers-list/)| 2023-02-02| 2023-05-16|
-| 2022| [🏠 website](https://kdd.org/kdd2022/index.html)| [🔗 link](https://kdd.org/kdd2022/paperRT.html)| 2022-02-10| 2022-05-19|
-| 2021|  | [🔗 link](https://www.kdd.org/kdd2021/accepted-papers)| | |
-| 2020|  | [🔗 link](https://www.kdd.org/kdd2020/accepted-papers)| | |
-| 2019|  | [🔗 link](https://www.kdd.org/kdd2019/accepted-papers)| | |
-| 2018|  | [🔗 link](https://www.kdd.org/kdd2018/accepted-papers)| | |
-| 2017|  | [🔗 link](https://www.kdd.org/kdd2017/accepted-papers)| | |
+| Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
+| ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| 2025| [🏠 website](https://kdd2025.kdd.org/)| | 2025-02-10| 2025-05-16| 2025-08-03| Toronto, Canada|
+| 2024| [🏠 website](https://kdd2024.kdd.org/)| [🔗 link](https://kdd2024.kdd.org/research-track-papers/)| 2024-02-08| 2024-05-16| 2024-08-25| Barcelona, Spain|
+| 2023| [🏠 website](https://www.kdd.org/kdd2023/)| [🔗 link](https://www.kdd.org/kdd2023/research-track-papers/)| 2023-02-02| 2023-05-16| 2023-08-06| Long Beach, CA|
+| 2022| [🏠 website](https://www.kdd.org/kdd2022/)| [🔗 link](https://www.kdd.org/kdd2022/toc.html)| 2022-02-10| 2022-05-18| 2022-08-14| Washington DC|
+| 2021| [🏠 website](https://www.kdd.org/kdd2021/)| [🔗 link](https://www.kdd.org/kdd2021/accepted-papers/)| 2021-02-08| 2021-05-17| 2021-08-14| Online|
+| 2020| [🏠 website](https://www.kdd.org/kdd2020/)| [🔗 link](https://www.kdd.org/kdd2020/accepted-papers.html)| 2020-02-13| 2020-05-15| 2020-08-23| Online|
