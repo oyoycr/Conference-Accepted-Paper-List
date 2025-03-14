@@ -57,6 +57,16 @@
 | 2020| [🏠 website](https://www.kdd.org/kdd2020/)| [🔗 link](https://www.kdd.org/kdd2020/accepted-papers.html)| 2020-02-13| 2020-05-15| 2020-08-23| Online|
 
 
+## AAAI
+| Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
+| ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| 2025| [🏠 website](https://aaai.org/conference/aaai/aaai-25/)| [🔗 link](https://aaai.org/conference/aaai/aaai-25/main-technical-track/)| 2024-08-15| 2024-12-09| 2025-02-25| Philadelphia|
+| 2024| [🏠 website](https://aaai.org/conference/aaai/aaai-24/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2024)| 2023-08-15| 2023-12-09| 2024-02-20| Vancouver, Canada|
+| 2023| [🏠 website](https://aaai-23.aaai.org/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2023.html)| 2022-08-15| 2022-11-18| 2023-02-07| Washington DC|
+| 2022| [🏠 website](https://aaai.org/conference/aaai/aaai-22/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2022.html)| 2021-09-08| 2021-11-29| 2022-02-22| Online|
+| 2021| [🏠 website](https://aaai.org/conference/aaai/aaai-21/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2021.html)| 2020-09-08| 2020-12-01| 2021-02-09| Online|
+| 2020| [🏠 website](https://aaai.org/conference/aaai/aaai-20/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2020.html)| 2019-09-05| 2019-11-10| 2020-02-07| New York, USA|
+
 
 ### Acknowledge
 This project is built upon the excellent work of [AI-ML-Robotic Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List).
