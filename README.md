@@ -4,9 +4,7 @@
 Some Conferences' accepted paper lists (including Network, Security, AI)
 > **CATALOGUE**
 >
-> [Quick Links](#quick-links)
->
-> [CCS](#CCS) :sparkles: [NDSS](#NDSS) :sparkles: [S&P](#S&P) :sparkles: [SIGCOMM](#SIGCOMM) :sparkles: [INFOCOM](#INFOCOM) :sparkles: [NSDI](#NSDI)
+> [Quick Links](#quick-links) :sparkles: [CCS](#CCS) :sparkles: [NDSS](#NDSS) :sparkles: [S&P](#S&P) :sparkles: [SIGCOMM](#SIGCOMM) :sparkles: [INFOCOM](#INFOCOM) :sparkles: [NSDI](#NSDI)
 >
 > [WWW](#WWW) :sparkles: [KDD](#KDD) :sparkles: [[AAAI](#AAAI)
 
