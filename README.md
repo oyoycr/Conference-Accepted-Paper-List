@@ -61,7 +61,7 @@
 | 2025| [🏠 website](https://conferences.sigcomm.org/sigcomm/2025/)| | 2025-01-31| 2025-04-29| 2025-09-08| Coimbra, Portugal|
 | 2024| [🏠 website](https://conferences.sigcomm.org/sigcomm/2024/)| [🔗 link](https://conferences.sigcomm.org/sigcomm/2024/accepted-papers/)| 2024-02-02| 2024-05-07| 2024-08-04| Sydney, Australia|
 | 2023| [🏠 website](https://conferences.sigcomm.org/sigcomm/2023/)| [🔗 link](https://conferences.sigcomm.org/sigcomm/2023/list-accepted.html)| 2023-02-08| 2023-05-20| 2023-09-10| New York, USA|
-| 2022| [🏠 website](https://conferences.sigcomm.org/sigcomm/2022/)| [🔗 link](https://conferences.sigcomm.org/sigcomm/2022/program.html)| 2022-02-02| 2022-05-07| 2022-08-22| Amsterdam, Netherlands|
+| 2022| [🏠 website](https://conferences.sigcomm.org/sigcomm/2022/)| [🔗 link](https://conferences.sigcomm.org/sigcomm/2022/program.html)| 2022-02-02| 2022-05-07| 2022-08-22|Amsterdam, NL|
 | 2021| [🏠 website](https://conferences.sigcomm.org/sigcomm/2021/)| [🔗 link](https://dl.acm.org/doi/proceedings/10.1145/3452296)| 2021-01-27| 2021-05-03| 2021-08-23| Online|
 | 2020| [🏠 website](https://conferences.sigcomm.org/sigcomm/2020/)| [🔗 link](https://dl.acm.org/doi/proceedings/10.1145/3387514)| 2020-02-07| 2020-05-15| 2020-08-10| Online|
 
@@ -69,7 +69,7 @@
 ## INFOCOM
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2025| [🏠 website](https://infocom2025.ieee-infocom.org/)| [🔗 link](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2024-07-31| 2024-12-06| 2025-05-19| London, United Kingdom|
+| 2025| [🏠 website](https://infocom2025.ieee-infocom.org/)| [🔗 link](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2024-07-31| 2024-12-06| 2025-05-19| London, UK|
 | 2024| [🏠 website](https://infocom2024.ieee-infocom.org/)| [🔗 link](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2023-07-31| 2023-12-01| 2024-05-20| Vancouver, Canada|
 | 2023| [🏠 website](https://infocom2023.ieee-infocom.org/)| [🔗 link](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2022-08-01| 2022-12-02| 2023-05-17| New York, USA|
 | 2022| [🏠 website](https://infocom2022.ieee-infocom.org/)| [🔗 link](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference.html)| 2021-07-31| 2021-12-03| 2022-05-02| Online|
