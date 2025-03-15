@@ -1,20 +1,22 @@
 # Conference-Accepted-Paper-List
 
+
+Some Conferences' accepted paper lists (including Network, Security, AI)
+> **CATALOGUE**
+>
+> [Quick Links](#quick-links)
+>
+> [CCS](#CCS) :sparkles: [NDSS](#NDSS) :sparkles: [S&P](#S&P) :sparkles: [SIGCOMM](#SIGCOMM) :sparkles: [INFOCOM](#INFOCOM) :sparkles: [NSDI](#NSDI)
+>
+> [WWW](#WWW) :sparkles: [KDD](#KDD) :sparkles: [[AAAI](#AAAI)
+
+
 ❗ 网络安全顶会：CCS、NDSS、S&P （通常每年有2轮投稿，仅统计了最后一轮的Deadline）
 
 ❗ 网络顶会：SIGCOMM、INFOCOM、NSDI（NSDI每年有2轮投稿，仅统计了最后一轮的Deadline）
 
 ❗ AI领域：WWW、KDD、AAAI
 
-
-> **CATALOGUE**
->
-> [Quick Links](#Quick Links)
->
-> [CCS](#CCS) :sparkles: [NDSS](#NDSS) :sparkles: [S&P](#S&P) :sparkles: [SIGCOMM](#SIGCOMM) :sparkles: [INFOCOM](#INFOCOM) :sparkles: [NSDI](#NSDI)
->
-> [WWW](#WWW) :sparkles: [KDD](#KDD) :sparkles: [[AAAI](#AAAI)
-> 
 
 # Quick Links
 | Conference | Submission | Notification | 2025 | 2024 | 2023 | 2022 | 2021 |
