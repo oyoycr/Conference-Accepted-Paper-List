@@ -6,7 +6,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI)
 >
 > [Quick Links](#quick-links) :sparkles: [CCS](#CCS) :sparkles: [NDSS](#NDSS) :sparkles: [S&P](#S&P) :sparkles: [SIGCOMM](#SIGCOMM) :sparkles: [INFOCOM](#INFOCOM) :sparkles: [NSDI](#NSDI)
 >
-> [WWW](#WWW) :sparkles: [KDD](#KDD) :sparkles: [[AAAI](#AAAI)
+> [WWW](#WWW) :sparkles: [KDD](#KDD) :sparkles: [AAAI](#AAAI)
 
 
 ❗ 网络安全顶会：CCS、NDSS、S&P （通常每年有2轮投稿，仅统计了最后一轮的Deadline）
