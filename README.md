@@ -1,7 +1,7 @@
 # Conference-Accepted-Paper-List
 
 
-Some Conferences' accepted paper lists (including Network, Security, AI) 顶会近五年接收列表
+Some Conferences' accepted paper lists (including Network, Security, AI) 顶会近五年的论文列表
 > **CATALOGUE**
 >
 > [Quick Links](#quick-links) :sparkles: [CCS](#CCS) :sparkles: [NDSS](#NDSS) :sparkles: [S&P](#S&P) :sparkles: [SIGCOMM](#SIGCOMM) :sparkles: [INFOCOM](#INFOCOM) :sparkles: [NSDI](#NSDI)
