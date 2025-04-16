@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24bff823-2be2-41fa-b12e-846ca65911ea)# Conference-Accepted-Paper-List
+# Conference-Accepted-Paper-List
 
 
 Some Conferences' accepted paper lists (including Network, Security, AI) 顶会近五年的论文列表
