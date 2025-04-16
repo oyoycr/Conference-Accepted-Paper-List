@@ -57,7 +57,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## S&P
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026| [🏠 website](https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/)| [🔗 link](https://www.ieee-security.org/TC/SP2025/accepted-papers.html)| 2025-06-05| 2025-09-09| 2026-05-18| San Francisco, CA|
+| 2026| [🏠 website](https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/)| | 2025-06-05| 2025-09-09| 2026-05-18| San Francisco, CA|
 | 2025| [🏠 website](https://www.ieee-security.org/TC/SP2025/)| [🔗 link](https://www.ieee-security.org/TC/SP2025/accepted-papers.html)| 2024-11-14| 2025-03-10| 2025-05-12| San Francisco, CA|
 | 2024| [🏠 website](https://www.ieee-security.org/TC/SP2024/)| [🔗 link](https://www.ieee-security.org/TC/SP2024/accepted-papers.html)| 2023-12-06| 2024-03-08| 2024-05-20| San Francisco, CA|
 | 2023| [🏠 website](https://www.ieee-security.org/TC/SP2023/)| [🔗 link](https://www.ieee-security.org/TC/SP2023/program-papers.html)| 2022-12-02| 2023-03-10| 2023-05-22| San Francisco, CA|
