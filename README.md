@@ -45,7 +45,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 [Official Collection](https://www.ndss-symposium.org/previous-ndss-symposia/)
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026| [🏠 website](https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/)| [🔗 link](https://www.ndss-symposium.org/ndss2025/accepted-papers/)| 2025-08-06| 2025-10-22| 2026-02-23| San Diego, California|
+| 2026| [🏠 website](https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/)| | 2025-08-06| 2025-10-22| 2026-02-23| San Diego, California|
 | 2025| [🏠 website](https://www.ndss-symposium.org/ndss2025/)| [🔗 link](https://www.ndss-symposium.org/ndss2025/accepted-papers/)| 2024-07-10| 2024-09-19| 2025-02-23| San Diego, California|
 | 2024| [🏠 website](https://www.ndss-symposium.org/ndss2024/)| [🔗 link](https://www.ndss-symposium.org/ndss2024/accepted-papers/)| 2023-06-28| 2023-09-13| 2024-02-26| San Diego, California|
 | 2023| [🏠 website](https://www.ndss-symposium.org/ndss2023/)| [🔗 link](https://www.ndss-symposium.org/ndss2023/accepted-papers/)| 2022-07-29| 2022-10-21| 2023-02-27| San Diego, California|
@@ -125,7 +125,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## AAAI
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026| [🏠 website](https://aaai.org/conference/aaai/aaai-26/)| [🔗 link](https://aaai.org/conference/aaai/aaai-25/main-technical-track/)| 2025-07-07| 2025-11-03| 2026-01-20| Singapore|
+| 2026| [🏠 website](https://aaai.org/conference/aaai/aaai-26/)|  | 2025-07-07| 2025-11-03| 2026-01-20| Singapore|
 | 2025| [🏠 website](https://aaai.org/conference/aaai/aaai-25/)| [🔗 link](https://aaai.org/conference/aaai/aaai-25/main-technical-track/)| 2024-08-15| 2024-12-09| 2025-02-25| Philadelphia|
 | 2024| [🏠 website](https://aaai.org/conference/aaai/aaai-24/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2024)| 2023-08-15| 2023-12-09| 2024-02-20| Vancouver, Canada|
 | 2023| [🏠 website](https://aaai-23.aaai.org/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2023.html)| 2022-08-15| 2022-11-18| 2023-02-07| Washington DC|
