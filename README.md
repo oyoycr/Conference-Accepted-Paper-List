@@ -25,8 +25,8 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 | [SIGCOMM](#SIGCOMM) | ~February | ~May |   | [🔗](https://conferences.sigcomm.org/sigcomm/2024/accepted-papers/) | [🔗](https://conferences.sigcomm.org/sigcomm/2023/list-accepted.html) | [🔗](https://conferences.sigcomm.org/sigcomm/2022/program.html) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3452296) |
 | [INFOCOM](#INFOCOM) | ~July | ~December |  [🔗](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference) |  [🔗](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference) | [🔗](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference)  |  [🔗](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference.html) |  [🔗](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html) |
 | [NSDI](#NSDI) | ~September | ~December |  [🔗](https://www.usenix.org/conference/nsdi25/technical-sessions)  | [🔗](https://www.usenix.org/conference/nsdi24/technical-sessions) |  [🔗](https://www.usenix.org/conference/nsdi23/technical-sessions) | [🔗](https://www.usenix.org/conference/nsdi22/technical-sessions)  |  [🔗](https://www.usenix.org/conference/nsdi21/technical-sessions) |
-| [WWW](#WWW) | ~October | ~January |   | [🔗](https://www.sigweb.org/toc/www24.html) |  [🔗](https://www.sigweb.org/toc/www23.html) | [🔗](https://www.sigweb.org/toc/www22.html) | [🔗](https://dblp.org/db/conf/www/www2021.html) |
-| [KDD](#KDD) | ~February | ~May |   | [🔗](https://kdd2024.kdd.org/research-track-papers/) | [🔗](https://www.kdd.org/kdd2023/research-track-papers/) | [🔗](https://www.kdd.org/kdd2022/toc.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers/)|  
+| [WWW](#WWW) | ~October | ~January | [🔗 link](https://www2025.thewebconf.org/full-schedule)  | [🔗](https://www.sigweb.org/toc/www24.html) |  [🔗](https://www.sigweb.org/toc/www23.html) | [🔗](https://www.sigweb.org/toc/www22.html) | [🔗](https://dblp.org/db/conf/www/www2021.html) |
+| [KDD](#KDD) | ~February | ~May | [🔗 link](https://kdd2025.kdd.org/research-track-papers-2/)  | [🔗](https://kdd2024.kdd.org/research-track-papers/) | [🔗](https://www.kdd.org/kdd2023/research-track-papers/) | [🔗](https://www.kdd.org/kdd2022/toc.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers/)|  
 | [AAAI](#AAAI) | ~Aug | ~December | [🔗](https://aaai.org/conference/aaai/aaai-25/main-technical-track/) | [🔗](https://dblp.org/db/conf/aaai/aaai2024) | [🔗 ](https://dblp.org/db/conf/aaai/aaai2023.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) |
 
 
@@ -104,7 +104,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## WWW
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2025| [🏠 website](https://www2025.thewebconf.org/)| | 2024-10-14| 2025-01-20| 2025-04-28| Sydney, Australia|
+| 2025| [🏠 website](https://www2025.thewebconf.org/)| [🔗 link](https://www2025.thewebconf.org/full-schedule)| 2024-10-14| 2025-01-20| 2025-04-28| Sydney, Australia|
 | 2024| [🏠 website](https://www2024.thewebconf.org/)| [🔗 link](https://www.sigweb.org/toc/www24.html)| 2023-10-12| 2024-02-01| 2024-05-13| Singapore|
 | 2023| [🏠 website](https://archives.iw3c2.org/www2023/)| [🔗 link](https://www.sigweb.org/toc/www23.html)| 2022-10-13| 2023-01-25| 2023-04-30| Austin, Texas|
 | 2022| [🏠 website](https://archives.iw3c2.org/www2022/)| [🔗 link](https://www.sigweb.org/toc/www22.html)| 2021-10-21| 2022-01-13| 2022-04-25| Online|
@@ -115,7 +115,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## KDD
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2025| [🏠 website](https://kdd2025.kdd.org/)| | 2025-02-10| 2025-05-16| 2025-08-03| Toronto, Canada|
+| 2025| [🏠 website](https://kdd2025.kdd.org/)| [🔗 link](https://kdd2025.kdd.org/research-track-papers-2/)| 2025-02-10| 2025-05-16| 2025-08-03| Toronto, Canada|
 | 2024| [🏠 website](https://kdd2024.kdd.org/)| [🔗 link](https://kdd2024.kdd.org/research-track-papers/)| 2024-02-08| 2024-05-16| 2024-08-25| Barcelona, Spain|
 | 2023| [🏠 website](https://www.kdd.org/kdd2023/)| [🔗 link](https://www.kdd.org/kdd2023/research-track-papers/)| 2023-02-02| 2023-05-16| 2023-08-06| Long Beach, CA|
 | 2022| [🏠 website](https://www.kdd.org/kdd2022/)| [🔗 link](https://www.kdd.org/kdd2022/toc.html)| 2022-02-10| 2022-05-18| 2022-08-14| Washington DC|
@@ -126,7 +126,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## AAAI
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026| [🏠 website](https://aaai.org/conference/aaai/aaai-26/)|  | 2025-07-07| 2025-11-03| 2026-01-20| Singapore|
+| 2026| [🏠 website](https://aaai.org/conference/aaai/aaai-26/)|  | 2025-08-01| 2025-11-03| 2026-01-20| Singapore|
 | 2025| [🏠 website](https://aaai.org/conference/aaai/aaai-25/)| [🔗 link](https://aaai.org/conference/aaai/aaai-25/main-technical-track/)| 2024-08-15| 2024-12-09| 2025-02-25| Philadelphia|
 | 2024| [🏠 website](https://aaai.org/conference/aaai/aaai-24/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2024)| 2023-08-15| 2023-12-09| 2024-02-20| Vancouver, Canada|
 | 2023| [🏠 website](https://aaai-23.aaai.org/)| [🔗 link](https://dblp.org/db/conf/aaai/aaai2023.html)| 2022-08-15| 2022-11-18| 2023-02-07| Washington DC|
