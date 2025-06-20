@@ -9,11 +9,11 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 > [WWW](#WWW) :sparkles: [KDD](#KDD) :sparkles: [AAAI](#AAAI)
 
 
-❗ 网络安全顶会：CCS、NDSS、S&P （通常每年有2轮投稿，仅统计了最后一轮的Deadline）
+❗ 网络安全顶会：CCS【1月和4月】、NDSS【4月和7月】、S&P【6月和11月】 （通常每年有2轮投稿，仅统计了最后一轮的Deadline）
 
-❗ 网络顶会：SIGCOMM、INFOCOM、NSDI（NSDI每年有2轮投稿，仅统计了最后一轮的Deadline）
+❗ 网络顶会：SIGCOMM【2月】、INFOCOM【7月】、NSDI【4月和9月】（NSDI每年有2轮投稿，仅统计了最后一轮的Deadline）
 
-❗ AI领域：WWW、KDD、AAAI
+❗ AI领域：WWW【10月】、KDD【8月和3月】、AAAI【8月】
 
 
 ## Quick Links
