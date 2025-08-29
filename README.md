@@ -1,4 +1,4 @@
-<img width="168" height="30" alt="image" src="https://github.com/user-attachments/assets/642b3e8c-3b89-4649-8ea3-4f65c98beaf8" /><img width="168" height="30" alt="image" src="https://github.com/user-attachments/assets/c0e298b1-6b47-44d4-a6e9-89a95b6ecd9a" /># Conference-Accepted-Paper-List
+# Conference-Accepted-Paper-List
 
 
 Some Conferences' accepted paper lists (including Network, Security, AI) 顶会近五年的论文列表
@@ -104,7 +104,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## WWW
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026| [🏠 website](https://www2026.thewebconf.org/)| | 2025-10-07| 2026-01-13| 2026-04-13| Dubai, United Arab Emirates|
+| 2026| [🏠 website](https://www2026.thewebconf.org/)| | 2025-10-07| 2026-01-13| 2026-04-13| Dubai, UAE|
 | 2025| [🏠 website](https://www2025.thewebconf.org/)| [🔗 link](https://www2025.thewebconf.org/full-schedule)| 2024-10-14| 2025-01-20| 2025-04-28| Sydney, Australia|
 | 2024| [🏠 website](https://www2024.thewebconf.org/)| [🔗 link](https://www.sigweb.org/toc/www24.html)| 2023-10-12| 2024-02-01| 2024-05-13| Singapore|
 | 2023| [🏠 website](https://archives.iw3c2.org/www2023/)| [🔗 link](https://www.sigweb.org/toc/www23.html)| 2022-10-13| 2023-01-25| 2023-04-30| Austin, Texas|
