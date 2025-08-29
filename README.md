@@ -1,4 +1,4 @@
-# Conference-Accepted-Paper-List
+<img width="168" height="30" alt="image" src="https://github.com/user-attachments/assets/642b3e8c-3b89-4649-8ea3-4f65c98beaf8" /><img width="168" height="30" alt="image" src="https://github.com/user-attachments/assets/c0e298b1-6b47-44d4-a6e9-89a95b6ecd9a" /># Conference-Accepted-Paper-List
 
 
 Some Conferences' accepted paper lists (including Network, Security, AI) 顶会近五年的论文列表
@@ -80,7 +80,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## INFOCOM
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026| | | | | 2026-05-19| Tokyo，Japan|
+| 2026| [🏠 website](https://infocom2026.ieee-infocom.org/)| | 2025-07-31| 2025-12-08| 2026-05-18| Tokyo，Japan|
 | 2025| [🏠 website](https://infocom2025.ieee-infocom.org/)| [🔗 link](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2024-07-31| 2024-12-06| 2025-05-19| London, UK|
 | 2024| [🏠 website](https://infocom2024.ieee-infocom.org/)| [🔗 link](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2023-07-31| 2023-12-01| 2024-05-20| Vancouver, Canada|
 | 2023| [🏠 website](https://infocom2023.ieee-infocom.org/)| [🔗 link](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference)| 2022-08-01| 2022-12-02| 2023-05-17| New York, USA|
@@ -104,6 +104,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## WWW
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| 2026| [🏠 website](https://www2026.thewebconf.org/)| | 2025-10-07| 2026-01-13| 2026-04-13| Dubai, United Arab Emirates|
 | 2025| [🏠 website](https://www2025.thewebconf.org/)| [🔗 link](https://www2025.thewebconf.org/full-schedule)| 2024-10-14| 2025-01-20| 2025-04-28| Sydney, Australia|
 | 2024| [🏠 website](https://www2024.thewebconf.org/)| [🔗 link](https://www.sigweb.org/toc/www24.html)| 2023-10-12| 2024-02-01| 2024-05-13| Singapore|
 | 2023| [🏠 website](https://archives.iw3c2.org/www2023/)| [🔗 link](https://www.sigweb.org/toc/www23.html)| 2022-10-13| 2023-01-25| 2023-04-30| Austin, Texas|
@@ -115,6 +116,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 ## KDD
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
+| 2026| [🏠 website](https://kdd2026.kdd.org/)| | 2025-07-31| 2025-11-23| 2026-08-09| Jeju, Korea|
 | 2025| [🏠 website](https://kdd2025.kdd.org/)| [🔗 link](https://kdd2025.kdd.org/research-track-papers-2/)| 2025-02-10| 2025-05-16| 2025-08-03| Toronto, Canada|
 | 2024| [🏠 website](https://kdd2024.kdd.org/)| [🔗 link](https://kdd2024.kdd.org/research-track-papers/)| 2024-02-08| 2024-05-16| 2024-08-25| Barcelona, Spain|
 | 2023| [🏠 website](https://www.kdd.org/kdd2023/)| [🔗 link](https://www.kdd.org/kdd2023/research-track-papers/)| 2023-02-02| 2023-05-16| 2023-08-06| Long Beach, CA|
