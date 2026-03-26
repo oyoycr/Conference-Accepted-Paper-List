@@ -98,7 +98,7 @@ Some Conferences' accepted paper lists (including Network, Security, AI) 顶会�
 | Year | Official Website |  Paper List | Deadline | Notification | Conference | Location |
 | ---------- | ---------- | ----------- | ---------- | ---------- | ---------- | ---------- |
 | 2027| | | | | | |
-| 2026| [🏠 website](https://www.usenix.org/conference/nsdi26/call-for-papers)| [🔗 link](https://www.usenix.org/conference/nsdi26/technical-sessions| 2025-09-18| 2025-12-09| 2026-05-04| Renton, WA|
+| 2026| [🏠 website](https://www.usenix.org/conference/nsdi26/call-for-papers)| [🔗 link](https://www.usenix.org/conference/nsdi26/technical-sessions)| 2025-09-18| 2025-12-09| 2026-05-04| Renton, WA|
 | 2025| [🏠 website](https://www.usenix.org/conference/nsdi25)| [🔗 link](https://www.usenix.org/conference/nsdi25/technical-sessions)| 2024-09-19| 2024-12-10| 2025-04-28| Philadelphia, PA|
 | 2024| [🏠 website](https://www.usenix.org/conference/nsdi24)| [🔗 link](https://www.usenix.org/conference/nsdi24/technical-sessions)| 2023-09-14| 2023-12-07| 2024-04-16| Santa Clara, CA|
 | 2023| [🏠 website](https://www.usenix.org/conference/nsdi23)| [🔗 link](https://www.usenix.org/conference/nsdi23/technical-sessions)| 2022-09-13| 2022-12-15| 2023-04-17| Boston, MA|
